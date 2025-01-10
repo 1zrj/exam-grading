@@ -4,3 +4,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = https://github.com/1zrj/rustlings.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = git@github.com:1zrj/learning-lm-rs.git
