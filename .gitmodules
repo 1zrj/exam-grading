@@ -7,3 +7,6 @@
 [submodule "learning-lm-rs"]
 	path = learning-lm-rs
 	url = https://github.com/1zrj/learning-lm-rs.git
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = https://github.com/1zrj/TinyInfiniTensor.git
